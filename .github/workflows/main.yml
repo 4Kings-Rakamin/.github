@@ -13,6 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: 4Kings-Rakamin
+          filename: .github/profile/github-metrics.svg
           plugin_languages: yes
           plugin_languages_ignored: css
           plugin_languages_details: bytes-size, percentage
