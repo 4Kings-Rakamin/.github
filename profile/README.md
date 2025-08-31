@@ -1,4 +1,4 @@
-[![banner1](.github/profile/4king.png)](https://www.github.com/4Kings-Rakamin)
+[![banner1](4king.png)](https://www.github.com/4Kings-Rakamin)
 
 
 ## `4Kings` Rakamin Final Project
