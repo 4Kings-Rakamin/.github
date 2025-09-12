@@ -102,6 +102,15 @@ Akses dokumentasi lengkap API di: [API/docs](https://agunghari-temanhire-fix.hf.
 └─────────────────────────────────────┘
 ```
 
+|Title | Stars | Tech|
+|--|--|--|
+| [TemanHire.com](https://github.com/4Kings-Rakamin/TemanHire.com) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/4Kings-Rakamin/TemanHire.com?style=flat-square&labelColor=black"/> | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) |
+| [Laporan Final Project](https://github.com/4Kings-Rakamin/Laporan_FP) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/4Kings-Rakamin/Laporan_FP?style=flat-square&labelColor=black"/> | ![Latex](https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=latex) |
+</td></tr> </table>
+
+
+
+
 ## 🤝 Partnership & Collaboration
 
 Tertarik untuk berkolaborasi atau mengintegrasikan TemanHire ke sistem HR Anda? 
