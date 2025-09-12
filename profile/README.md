@@ -27,12 +27,12 @@ Di era dimana **perusahaan** kesulitan menemukan kandidat secara cepat dan **wak
 </p>
 
 ### Tech Stack Unggulan:
-- **Backend**: FastAPI dengan arsitektur microservices untuk skalabilitas tinggi
+- **Backend**: NextJS untuk skalabilitas tinggi
 - **Machine Learning**: Scikit-learn untuk model prediktif dengan accuracy > 90%
 - **Database**: PostgreSQL + Supabase untuk real-time data sync
 - **Frontend**: TypeScript + Tailwind CSS untuk UI/UX yang responsif
 - **Deployment**: Docker + Vercel untuk zero-downtime deployment
-- **AI Integration**: Custom LLM fine-tuned untuk HR domain expertise
+- **AI Integration**: FastAPI Hiring Prediction App + Custom LLM fine-tuned untuk HR domain expertise
 - **Reporting** : Latex untuk laporan
 
 ## 🌟 Fitur Utama
